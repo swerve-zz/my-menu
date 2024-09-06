@@ -1,0 +1,20 @@
+Function Notes
+
+I want to search for a selection element based on a dropdown menu.
+if (selection="chicken", 
+  loop through the calendar array
+  highlight all choices in yellow
+  give option to select all checkbox
+    selects all
+    grays out selected to indicate a choice made
+  else
+    select manually)
+
+I want to select based on a favorited item.
+if (selection="class="fav" contains="chicken nuggets",
+  loop through the calendar array
+  if selection is one of two choices
+    gray out days selected to indicate a choice made
+  else if neither choice is selected
+    leave white background)
+
