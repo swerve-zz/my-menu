@@ -12,7 +12,7 @@ function myFunction() {
 
     // Map keywords to image URLs. This is an array. Must separate by commas or else it breaks.
     const images = {
-        "pokemon": "/Iono.png",
+        "pokemon": "https://github.com/swerve-zz/my-menu/blob/main/Iono.png",
         "ice": "https://github.com/swerve-zz/my-menu/blob/main/Ice.png"
     };
 
