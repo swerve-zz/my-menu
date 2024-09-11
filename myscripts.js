@@ -12,8 +12,8 @@ function myFunction() {
 
     // Map keywords to image URLs. This is an array. Must separate by commas or else it breaks.
     const images = {
-        "pokemon": "Iono.png",
-        "ice": "ice.png"
+        "pokemon": "/Iono.png",
+        "ice": "/Ice.png"
     };
 
     // Check if the keyword matches an image
