@@ -10,7 +10,7 @@ function myFunction() {
     // Clear any previous image
     imageContainer.innerHTML = "";
 
-    // Map keywords to image URLs
+    // Map keywords to image URLs. This is an array. Must separate by commas or else it breaks.
     const images = {
         "pokemon": "Iono.png",
         "ice": "ice.png"
