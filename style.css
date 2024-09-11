@@ -22,3 +22,9 @@ table, th, td {
   opacity: 0.6;
   transition: 0.3s;
 }
+
+.foodImage {
+   height: 200px;
+   width: 200px;
+   background-color: lightblue;
+}
