@@ -18,3 +18,10 @@ if (selection="class="fav" contains="chicken nuggets",
   else if neither choice is selected
     leave white background)
 
+I want to add an image for each item listed in text.
+if (itemSelectionText="chicken nuggets")
+{
+image src = "chickenNuggets"
+}
+
+
