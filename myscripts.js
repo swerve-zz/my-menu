@@ -11,9 +11,8 @@ function addImage() {
 
     // Map keywords to image URLs
     const images = {
-        "cat": "https://example.com/cat.jpg",
-        "dog": "https://example.com/dog.jpg",
-        "bird": "https://example.com/bird.jpg"
+        "pokemon": "Iono.png";
+        "ice": "ice.png";
     };
 
     // Check if the keyword matches an image
