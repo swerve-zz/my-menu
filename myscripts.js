@@ -13,7 +13,7 @@ function myFunction() {
     // Map keywords to image URLs. This is an array. Must separate by commas or else it breaks.
     const images = {
         "pokemon": "/Iono.png",
-        "ice": "/Ice.png"
+        "ice": "https://github.com/swerve-zz/my-menu/blob/main/Ice.png"
     };
 
     // Check if the keyword matches an image
