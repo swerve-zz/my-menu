@@ -23,8 +23,9 @@ table, th, td {
   transition: 0.3s;
 }
 
-.btn:hover{
-  background-color: red;
+.btn:hover {
+   background-color: red;
+   transform: scale(1.2); /* Slightly enlarge the button */
 }
 
 .foodImage {
