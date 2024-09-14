@@ -1,9 +1,18 @@
+table {
+   border-collapse: collapse;
+   width: 100%;
+}
+th, td {
+   padding: 10px;
+   text-align: center;
+   border: 1px solid #ddd;
+}
+th {
+   background-color: #f4f4f4;
+}
+// calendar
 h1 {
    color: red;
-}
-
-table, th, td {
-   border: 1px solid black;
 }
 
 .calendar {
