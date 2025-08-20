@@ -33,3 +33,7 @@ radio buttons
   <input type="radio" id="cold" value="cold">
 <label>Cold</label>
 </li>
+
+
+<p id="demo">change me</p>
+<button onclick="document.getElementById('demo').innerHTML = 'hello';">button</button>
