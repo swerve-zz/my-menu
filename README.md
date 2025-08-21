@@ -1,12 +1,13 @@
 # my-menu
 My Menu
 
-hover over radio button causes shading
 
-onclick event listener for button
-button
 
-radio buttons
+//child with three options
+//dropdown menu with number of children and auto populate radio
+//enter name for each child
+//input prompt for name
+
 <ul>
   <li>
     Grace
@@ -39,4 +40,7 @@ radio buttons
 <button onclick="document.getElementById('demo').innerHTML = 'hello';">button</button>
 
 button for favorite meal icon. switch image src.
+hover over radio button causes shading
 
+onclick event listener for button
+button
