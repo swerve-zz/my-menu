@@ -37,3 +37,6 @@ radio buttons
 
 <p id="demo">change me</p>
 <button onclick="document.getElementById('demo').innerHTML = 'hello';">button</button>
+
+button for favorite meal icon. switch image src.
+
