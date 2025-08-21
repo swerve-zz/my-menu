@@ -11,25 +11,27 @@ My Menu
 <ul>
   <li>
     Grace
-  <input type="radio" id="1" value="1">
+  <input type="radio" id="first1" value="1">
 <label>Option 1</label>
-  <input type="radio" id="2" value="2">
+  <input type="radio" id="first2" value="2">
 <label>Option 2</label>
   <input type="radio" id="cold" value="cold">
 <label>Cold</label>
   </li>
   <li>
     Gwen
+  <input type="radio" id="second1" value="1">
 <label>Option 1</label>
-  <input type="radio" id="2" value="2">
+  <input type="radio" id="second2" value="2">
 <label>Option 2</label>
   <input type="radio" id="cold" value="cold">
 <label>Cold</label>
   </li>
   <li>
     Calvin
+  <input type="radio" id="third1" value="1">
 <label>Option 1</label>
-  <input type="radio" id="2" value="2">
+  <input type="radio" id="third2" value="2">
 <label>Option 2</label>
   <input type="radio" id="cold" value="cold">
 <label>Cold</label>
@@ -44,3 +46,8 @@ hover over radio button causes shading
 
 onclick event listener for button
 button
+
+print button
+
+//dropdown foods to select. meal prep site.
+//how to populate the meals. from an excel sheet?
